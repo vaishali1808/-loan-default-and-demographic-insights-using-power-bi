@@ -38,3 +38,5 @@ Middle-aged adults and those with medium credit scores account for the highest l
 Lower education levels (High School) are linked with higher number of loans.
 
 
+### 6.	Screenshots / Demos
+Example: ![Dashboard Preview](https://github.com/vaishali1808/-loan-default-and-demographic-insights-using-power-bi/blob/main/loan%20pro.png)
